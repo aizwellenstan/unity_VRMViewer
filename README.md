@@ -4,7 +4,7 @@ VRMファイルでライブを見よう！！
 
 <a href="https://aizwellenstan.github.io" /><img src="Assets/LiveV/Textures/CRS_Stage.png" width="600"></a>
 
-aizwellenstan.github.io
+<a href="https://aizwellenstan.github.io" />aizwellenstan.github.io<a href="https://aizwellenstan.github.io" />
 
 # 使い方
 読み込みたいアバターを選択するかDefault Avaterを選択するとLiveが始まります。止まりません。
