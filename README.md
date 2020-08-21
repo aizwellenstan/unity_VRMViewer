@@ -2,7 +2,7 @@
 VRMファイルでライブを見よう！！
 # WebGL版
 
-<img src="Assets/LiveV/Textures/CRS_Stage.png" width="600">
+<a href="https://aizwellenstan.github.io" /><img src="Assets/LiveV/Textures/CRS_Stage.png" width="600"></a>
 
 aizwellenstan.github.io
 
